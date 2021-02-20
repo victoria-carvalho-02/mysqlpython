@@ -35,6 +35,7 @@
     b.	Go to the path where mysqlpython is by using cd /c/mysqlpython
         Note – use clear to clear the terminal/bash
     c.	Install the connector by using the command (in order to connect python with sql later)
+    
       i.	1st command that mostly works –
            pip install mysql-connector 
            if "Successful" no need to download 2 or 3
@@ -42,7 +43,7 @@
      ii.	2nd command in case 1st doesn’t work
       Pip install mysql-connector-python
 
-     iii. 3rd command in case 2nd doesn’t download or work
+     iii.   3rd command in case 2nd doesn’t download or work
       Pip install mysql-connector-python-rf
 
 7.	Connect to DB in python - Let's code!
