@@ -5,9 +5,9 @@
 
 
 
-1.	Install Python 
-2.	Install Sublime Text Editor – Open after installation. Go to View in menu> Syntax>Python as language
-3.	Install Git (Default Settings)
+#####1. Install Python 
+#####2. Install Sublime Text Editor – Open after installation. Go to View in menu> Syntax>Python as language
+Install Git (Default Settings)
 4.	Download MySQL - https://www.mysql.com/  Download from the same website the MySQLworkbench
           1.	Now it’s best to have both in a same package then downloading separately
           2.	So, https://www.mysql.com/ > Downloads > At the end of the page > MySQL Community (GPL) Downloads » Then go to MySQL Community Server > Select Windows> go to the Download   page
@@ -28,7 +28,7 @@
             iv.	Go to the path where mysqlpython is by using cd /c/mysqlpython (Note – use clear to clear the terminal/bash)
 
 7.	Install the connector by using the command (in order to connect python with sql later)
-          a.	1st command that mostly works –
+          1st command that mostly works –
             i.	pip install mysql-connector 
             ii.	if "Successful" no need to download 2 or 3
 
