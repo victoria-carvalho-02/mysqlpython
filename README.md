@@ -25,15 +25,15 @@
             ii. It should be the default path
             iii. Now let’s make a directory to store the python code which we are going to perform in this course $mkdir mysqlpython
             iv. Go to the path where mysqlpython is by using cd /c/mysqlpython (Note – use clear to clear the terminal/bash)
-          b. Install the connector by using the command (in order to connect python with sql later)
-                    a. 1st command that mostly works –
-                      i. pip install mysql-connector 
-                      ii. if "Successful" no need to download 2 or 3
+          b. Install the connector by using the command (in order to connect python with sql later
+             i. 1st command that mostly works –
+                      a. pip install mysql-connector 
+                      b. if "Successful" no need to download 2 or 3
 
-                    b. 2nd command in case 1st doesn’t work
-                      i. Pip install mysql-connector-python
+             ii. 2nd command in case 1st doesn’t work
+                      a. Pip install mysql-connector-python
 
-                    c. 3rd command in case 2nd doesn’t download or work
-                      i. Pip install mysql-connector-python-rf
+             iii. 3rd command in case 2nd doesn’t download or work
+                      a. Pip install mysql-connector-python-rf
 
 ##### 7. Connect to DB in python - Let's code! Check the database.py file
