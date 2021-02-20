@@ -29,13 +29,13 @@
 
 ##### 7. Install the connector by using the command (in order to connect python with sql later)
           a. 1st command that mostly works –
-            i.	pip install mysql-connector 
-            ii.	if "Successful" no need to download 2 or 3
+            i. pip install mysql-connector 
+            ii. if "Successful" no need to download 2 or 3
 
-          b.	2nd command in case 1st doesn’t work
-            i.	Pip install mysql-connector-python
+          b. 2nd command in case 1st doesn’t work
+            i. Pip install mysql-connector-python
 
-          c.	3rd command in case 2nd doesn’t download or work
-            i.	Pip install mysql-connector-python-rf
+          c. 3rd command in case 2nd doesn’t download or work
+            i. Pip install mysql-connector-python-rf
 
 ##### 8. Connect to DB in python - Let's code! Check the database.py file
