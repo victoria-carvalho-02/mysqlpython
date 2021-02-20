@@ -17,6 +17,7 @@
 5.	Install MySQL and Workbench
  
     a. Now select the default setting- Developer Default. It contains Workbench and other details.
+    
     b. Remember the Username and Password
         Username = root
         Password = somepassword
