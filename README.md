@@ -10,7 +10,7 @@
     a.	Now it’s best to have both in a same package then downloading separately
     b.	So, https://www.mysql.com/ > Downloads > At the end of the page > MySQL Community (GPL) Downloads » Then go to MySQL Community Server > Select Windows> go to the Download      page
 
-    c.	From here DON’T DOWNLOAD THE SMALL SIZE VERSION OF MYSQL – what it does it after installing is, it will carry out other installations to download other stuff required for       it and has a lot of bugs in it.
+    c.	From here DON’T DOWNLOAD THE SMALL SIZE VERSION OF MYSQL – what it does it after installing is, it will carry out other installations to download other stuff required for it and has a lot of bugs in it.
 
     d.	Then on the next page – “No thanks……..”
  
@@ -28,22 +28,24 @@
 
 6.	Install MySQL Connector
     a.	Go to Git bash
+    
       i.	Check the current path using $pwd command
       ii.	It should be the default path
       iii.	Now let’s make a directory to store the python code which we are going to perform in this course $mkdir mysqlpython
  
     b.	Go to the path where mysqlpython is by using cd /c/mysqlpython
         Note – use clear to clear the terminal/bash
+        
     c.	Install the connector by using the command (in order to connect python with sql later)
     
-      i.	1st command that mostly works –
+      i. 1st command that mostly works –
            pip install mysql-connector 
            if "Successful" no need to download 2 or 3
 
-     ii.	2nd command in case 1st doesn’t work
+     ii. 2nd command in case 1st doesn’t work
       Pip install mysql-connector-python
 
-     iii.   3rd command in case 2nd doesn’t download or work
+     iii. 3rd command in case 2nd doesn’t download or work
       Pip install mysql-connector-python-rf
 
 7.	Connect to DB in python - Let's code!
