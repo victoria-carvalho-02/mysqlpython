@@ -23,6 +23,7 @@
         Password = somepassword
         
       This password must be remembered as it will be required later in the configuration of SQL and when connecting Python to SQL. Now we don’t need to add any other user. The         root user is fine.
+      
     c. Click Finish and then other remaining things to configure will be displayed. Complete the configurations.
  
 
